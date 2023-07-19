@@ -24,7 +24,6 @@ Foundation models include Large language models (LLMs), vision-language models (
 
 **[3]** Exploring the Universal Vulnerability of Prompt-based Learning Paradigm. NAACL. 2022. [https://aclanthology.org/2022.findings-naacl.137]
 
-**[4]**
 
 **Robustness in VLMs:**
 
