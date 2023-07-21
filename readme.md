@@ -16,13 +16,15 @@ Foundation models include Large language models (LLMs), vision-language models (
 
 **[1]** RealToxicityPrompts: Evaluating Neural Toxic Degeneration in Language Models. Arxiv. 2023. [https://aclanthology.org/2020.findings-emnlp.301]
 
-**Backdoor Security in LLMs:**
+**Backdoor in LLMs:**
 
 **[1]** BadPrompt: Backdoor Attacks on Continuous Prompts. NeurIPS. 2022. [https://arxiv.org/abs/2211.14719]
 
 **[2]** BadGPT: Exploring Security Vulnerabilities of ChatGPT via Backdoor Attacks to InstructGPT. Arxiv. 2023. [http://arxiv.org/abs/2304.12298]
 
 **[3]** Exploring the Universal Vulnerability of Prompt-based Learning Paradigm. NAACL. 2022. [https://aclanthology.org/2022.findings-naacl.137]
+
+**[4]** Backdoor Pre-trained Models Can Transfer to All. CCS. 2021. [http://arxiv.org/abs/2111.00197]
 
 
 **Robustness in VLMs:**
@@ -35,7 +37,21 @@ Foundation models include Large language models (LLMs), vision-language models (
 
 **[4]** UNDERSTANDING ZERO-SHOT ADVERSARIAL ROBUSTNESS FOR LARGE-SCALE MODELS. ICLR. 2023. [http://arxiv.org/abs/2212.07016]
  
+**Backdoor in VLMs:**
+
+**[1]** Zero-Day Backdoor Attack against Text-to-Image Diffusion Models via Personalization. Arxiv. 2023. [http://arxiv.org/abs/2305.10701]
+
+**[2]** CleanCLIP: Mitigating Data Poisoning Attacks in Multimodal Contrastive Learning. ICCV. 2023. [http://arxiv.org/abs/2303.03323]
+
+**[3]** Backdoor Attacks to Pre-trained Unified Foundation Models. Arxiv. 2023. [http://arxiv.org/abs/2302.09360]
+
+**[4]** Dual-Key Multimodal Backdoors for Visual Question Answering. CVPR. 2022. [https://openaccess.thecvf.com/content/CVPR2022/papers/Walmer_Dual-Key_Multimodal_Backdoors_for_Visual_Question_Answering_CVPR_2022_paper.pdf]
+
+**[5]** POISONING AND BACKDOORING CONTRASTIVE LEARNING. ICLR. 2022. [https://openreview.net/pdf?id=iC4UHbQ01Mp]
+
+
 **Robustness in LVMs:**
+
 
 **Visual Tuning:**
 
@@ -44,5 +60,12 @@ Foundation models include Large language models (LLMs), vision-language models (
 **[2]** Review of Large Vision Models and Visual Prompt Engineering. Arxiv. 2023. [http://arxiv.org/abs/2307.00855]
 
 **[3]** Visual Prompt Tuning. ECCV. 2022. [http://arxiv.org/abs/2203.12119]
+
+**Backdoor in LVMs:**
+
+**[1]** Backdoor Attacks on Self-Supervised Learning. CVPR. 2022. [https://ieeexplore.ieee.org/document/9879958/]
+
+**[2]** Backdoor Attacks in the Supply Chain of Masked Image Modeling. Arxiv. 2022. [https://arxiv.org/abs/2210.01632]
+
 
 
