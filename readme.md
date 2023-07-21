@@ -49,6 +49,8 @@ Foundation models include Large language models (LLMs), vision-language models (
 
 **[5]** POISONING AND BACKDOORING CONTRASTIVE LEARNING. ICLR. 2022. [https://openreview.net/pdf?id=iC4UHbQ01Mp]
 
+**[6]** How to Backdoor Diffusion Models?. CVPR. 2023. [https://arxiv.org/abs/2212.05400]
+
 
 **Robustness in LVMs:**
 
