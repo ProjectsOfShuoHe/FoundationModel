@@ -8,6 +8,10 @@ Foundation models include Large language models (LLMs), vision-language models (
 
 **[2]** PromptBench: Towards Evaluating the Robustness of Large Language Models on Adversarial Prompts. Arxiv. 2023. [http://arxiv.org/abs/2306.04528]
 
+**[3]** Challenges and Applications of Large Language Models. Arxiv. 2023. [http://arxiv.org/abs/2307.10169]
+
+**[4]** A Survey on Evaluation of Large Language Models. Arxiv. 2023. [http://arxiv.org/abs/2307.03109]
+
 **Robustness in LLMs:**
 
 **[1]** Revisiting Out-of-distribution Robustness in NLP: Benchmark, Analysis, and LLMs Evaluations. Arxiv. 2023. [http://arxiv.org/abs/2306.04618]
@@ -50,6 +54,8 @@ Foundation models include Large language models (LLMs), vision-language models (
 **[5]** POISONING AND BACKDOORING CONTRASTIVE LEARNING. ICLR. 2022. [https://openreview.net/pdf?id=iC4UHbQ01Mp]
 
 **[6]** How to Backdoor Diffusion Models?. CVPR. 2023. [https://arxiv.org/abs/2212.05400]
+
+**[7]** Raising the Cost of Malicious AI-Powered Image Editing. Arxiv. 2023. [http://arxiv.org/abs/2302.06588]
 
 
 **Robustness in LVMs:**
