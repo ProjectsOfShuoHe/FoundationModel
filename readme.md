@@ -40,6 +40,8 @@ Foundation models include Large language models (LLMs), vision-language models (
 **[3]** Debiased Fine-Tuning for Vision-language Models by Prompt Regularization. AAAI. 2023. [http://arxiv.org/abs/2301.12429]
 
 **[4]** UNDERSTANDING ZERO-SHOT ADVERSARIAL ROBUSTNESS FOR LARGE-SCALE MODELS. ICLR. 2023. [http://arxiv.org/abs/2212.07016]
+
+**[5]** Raising the Cost of Malicious AI-Powered Image Editing. Arxiv. 2023. [http://arxiv.org/abs/2302.06588]
  
 **Backdoor in VLMs:**
 
@@ -54,8 +56,6 @@ Foundation models include Large language models (LLMs), vision-language models (
 **[5]** POISONING AND BACKDOORING CONTRASTIVE LEARNING. ICLR. 2022. [https://openreview.net/pdf?id=iC4UHbQ01Mp]
 
 **[6]** How to Backdoor Diffusion Models?. CVPR. 2023. [https://arxiv.org/abs/2212.05400]
-
-**[7]** Raising the Cost of Malicious AI-Powered Image Editing. Arxiv. 2023. [http://arxiv.org/abs/2302.06588]
 
 
 **Robustness in LVMs:**
