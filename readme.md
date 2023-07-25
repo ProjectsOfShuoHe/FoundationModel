@@ -16,6 +16,12 @@ Foundation models include Large language models (LLMs), vision-language models (
 
 **[1]** Revisiting Out-of-distribution Robustness in NLP: Benchmark, Analysis, and LLMs Evaluations. Arxiv. 2023. [http://arxiv.org/abs/2306.04618]
 
+**[2]** Jailbroken: How Does LLM Safety Training Fail? Arxiv. 2023. [http://arxiv.org/abs/2307.02483]
+
+**[3]** Are aligned neural networks adversarially aligned? Arxiv. 2023. [https://arxiv.org/pdf/2306.15447.pdf]
+
+**[4]** Can LLMs Express Their Uncertainty? An Empirical Evaluation of Confidence Elicitation in LLMs. Arxiv. 2023. [https://arxiv.org/pdf/2306.13063.pdf]
+
 **Toxicity in LLMs:**
 
 **[1]** RealToxicityPrompts: Evaluating Neural Toxic Degeneration in Language Models. Arxiv. 2023. [https://aclanthology.org/2020.findings-emnlp.301]
@@ -30,6 +36,7 @@ Foundation models include Large language models (LLMs), vision-language models (
 
 **[4]** Backdoor Pre-trained Models Can Transfer to All. CCS. 2021. [http://arxiv.org/abs/2111.00197]
 
+**[5]** On the Exploitability of Instruction Tuning. Arxiv. 2023. [http://arxiv.org/abs/2306.17194]
 
 **Robustness in VLMs:**
 
