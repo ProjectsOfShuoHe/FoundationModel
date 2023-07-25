@@ -38,6 +38,10 @@ Foundation models include Large language models (LLMs), vision-language models (
 
 **[5]** On the Exploitability of Instruction Tuning. Arxiv. 2023. [http://arxiv.org/abs/2306.17194]
 
+**[6]** Poisoning Language Models During Instruction Tuning. ICML. 2023. [https://arxiv.org/abs/2305.00944]
+
+**[7]** Instructions as Backdoors: Backdoor Vulnerabilities of Instruction Tuning for Large Language Models. Arxiv. 2023. [https://arxiv.org/abs/2305.14710]
+
 **Robustness in VLMs:**
 
 **[1]** On Evaluating Adversarial Robustness of Large Vision-Language Models. Arxiv. 2023. [http://arxiv.org/abs/2305.16934]
